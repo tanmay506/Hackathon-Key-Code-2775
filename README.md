@@ -59,6 +59,9 @@ The following metrics will be used to evaluate model performance:
 - Precision
 - F1-Score
 
+## **Presentation**
+[Powerpoint Presentation](https://github.com/user-attachments/files/18469271/PPT.1.pptx)
+
 ## **Results**
 Results and insights from the analysis and models will be documented and visualized to demonstrate the effectiveness of the approach.
 
