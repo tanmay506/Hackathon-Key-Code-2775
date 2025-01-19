@@ -23,16 +23,16 @@ The dataset is divided into the following categories:
 8. **loan**: Has a personal loan?
 
 #### **Campaign-related Attributes**
-9. **contact**: Communication type (categorical: "unknown", "telephone", "cellular")
-10. **day**: Last contact day of the month (numeric)
-11. **month**: Last contact month of the year (categorical: "jan", "feb", "mar", ..., "nov", "dec")
-12. **duration**: Last contact duration in seconds (numeric)
+9. **contact**: Communication type
+10. **day**: Last contact day of the month
+11. **month**: Last contact month of the year
+12. **duration**: Last contact duration in seconds
 
 #### **Other Attributes**
-13. **campaign**: Number of contacts performed during this campaign (numeric, includes the last contact)
-14. **pdays**: Days since the client was last contacted in a previous campaign (numeric, -1 indicates no previous contact)
-15. **previous**: Number of contacts performed before this campaign (numeric)
-16. **poutcome**: Outcome of the previous marketing campaign (categorical: "unknown", "other", "failure", "success")
+13. **campaign**: Number of contacts performed during this campaign
+14. **pdays**: Days since the client was last contacted in a previous campaign
+15. **previous**: Number of contacts performed before this campaign
+16. **poutcome**: Outcome of the previous marketing campaign
 
 ## **Objectives**
 1. Perform exploratory data analysis (EDA) to understand the dataset and relationships between variables.
